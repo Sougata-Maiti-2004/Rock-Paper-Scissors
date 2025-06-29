@@ -1,2 +1,2 @@
 # Stone-Paper-Scissors
-Stone, Paper & Scissors Game 
+Rock, Paper & Scissors Game 
